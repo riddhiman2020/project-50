@@ -1,0 +1,86 @@
+
+.header{
+    border: solid blue;
+    background-color: greenyellow;
+    display:flex;
+    justify-content: space-between;
+}
+.body{
+    text-align: center;
+    border: solid red;
+    background-color: orange;
+}
+.panda{
+    background-color: white;
+    border:solid grey;
+    border-radius: 0.4cm;
+    text-align: center;
+}
+.camel{
+    background-color: white;
+    border:solid grey;
+    border-radius: 0.4cm;
+    text-align: center;
+}
+.chameleon{
+    background-color: white;
+    border:solid grey;
+    border-radius: 0.4cm;
+    text-align: center;
+}
+.cicada{
+    background-color: white;
+    border:solid grey;
+    border-radius: 0.4cm;
+    text-align: center;
+}
+.teddy{
+    background-color: white;
+    border:solid grey;
+    border-radius: 0.4cm;
+    text-align: center;
+}
+.pigeon{
+    background-color: white;
+    border:solid grey;
+    border-radius: 0.4cm;
+    text-align: center;
+}
+.origami{
+    display:flex;
+    justify-content:space-evenly;
+}
+.ori{
+    display:flex;
+    justify-content:space-evenly;
+}
+body{
+    background-color: rgb(90, 90, 90);
+}
+.img1{
+    border:solid black;
+    border-radius: 0.4em;
+}
+.img2{
+    border:solid black;
+    border-radius: 0.4em;
+}
+.img3{
+    border:solid black;
+    border-radius: 0.4em;
+}
+.img4{
+    border:solid black;
+    border-radius: 0.4em;
+}
+.img5{
+    border:solid black;
+    border-radius: 0.4em;
+}
+.img6{
+    border:solid black;
+    border-radius: 0.4em;
+}
+p{
+    font-style:oblique;
+}
